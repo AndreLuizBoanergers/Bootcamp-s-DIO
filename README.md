@@ -12,4 +12,11 @@
 ## Projeto HTML CSS TQI
  - memu hanburguer come feito  rotate
 
+### Landing Page
+## Projeto HTML CSS TQI
+ - landing Page com keyframe backgroud
+ - imprentado footer nao proposto na aula 
+ - calc() usado no heagth class wrapper
+
+ 
 
