@@ -6,11 +6,11 @@
 
 ### Card Transitions
 ## Projeto HTML CSS TQI
- - card  aniamdo  ao efeito hover
+ - card  animado  ao efeito hover
 
 ### Menu Hanburguer
 ## Projeto HTML CSS TQI
- - memu hanburguer come feito  rotate
+ - menu hanburguer come feito  rotate
 
 ### Landing Page
 ## Projeto HTML CSS TQI
@@ -18,5 +18,5 @@
  - imprentado footer nao proposto na aula 
  - calc() usado no heagth class wrapper
 
- 
+
 
