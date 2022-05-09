@@ -18,11 +18,16 @@
  - imprentado footer nao proposto na aula 
  - calc() usado no heagth class wrapper
 
-### Ione chat flutuante
+### Icone chat flutuante
 ## Projeto HTML CSS TQI
 
  - chat flutuante animano
  - animation e keyframe
+
+### Portifolio
+## Projeto HTML CSS TQI
+
+ - header com menu hanburguer bola animado
 
 
 
