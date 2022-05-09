@@ -18,5 +18,12 @@
  - imprentado footer nao proposto na aula 
  - calc() usado no heagth class wrapper
 
+### Ione chat flutuante
+## Projeto HTML CSS TQI
+
+ - chat flutuante animano
+ - animation e keyframe
+
+
 
 
