@@ -3,3 +3,5 @@
 ### projeto To do list
 # Sintaxe basica em javascript
 ### Projeto Calculadora
+# Sintaxe Operadores
+### comparadores
