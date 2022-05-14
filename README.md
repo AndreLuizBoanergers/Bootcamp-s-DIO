@@ -29,6 +29,18 @@
 
  - header com menu hanburguer bola animado
 
-
-
+# javaScript
+ - Calculadora
+ - DOM
+ - Projeto Cats
+ - Conatdor
+ - to do list
+ - Orientacao a objeto
+ - Sintaxe basica
+ - js async
+ - array parser
+ - comparadores
+ - debug erros
+ - palindromo
+ - funcoes
 
