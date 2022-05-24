@@ -1,5 +1,7 @@
 # BOOTCAMP's DIO
 [linkdin](https://www.linkedin.com/in/andre-luiz-790599182/)
+[facebook](https://web.facebook.com/andreluizsapora);
+[portifolio]()
 ## LIvro Receitas
 ### Curso Introducao ao GIT/GITHUB
  - Livro receitas usando Markdown
@@ -33,7 +35,7 @@
  - Calculadora
  - DOM
  - Projeto Cats
- - Conatdor
+ - Contador
  - to do list
  - Orientacao a objeto
  - Sintaxe basica
